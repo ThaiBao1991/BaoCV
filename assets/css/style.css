@@ -55,6 +55,14 @@ p {
 	max-width: 35%;
 }
 
+.CV-download {
+	padding: 20px;
+}
+
+.CV-download button{
+	background-color: #c1e8ef;
+}
+
 .content {
 	width: 65%;
 	padding: 70px;
