@@ -78,6 +78,7 @@ CSS cho phần Avatar
 .avatar img {
 	border-radius: 50%;
 	border: 5px solid rgba(255, 255, 255, .1);
+	object-fit: cover;
 }
 .avatar h1 {
 	font-size: 32px;
