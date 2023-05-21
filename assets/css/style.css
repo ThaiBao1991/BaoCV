@@ -65,7 +65,7 @@ p {
 
 .content {
 	width: 65%;
-	padding: 70px;
+	padding: 30px;
 }
 CSS cho phần Avatar
 
@@ -222,7 +222,7 @@ CSS cho phần module và các phần còn lại
 	font-weight: 700;
 	color: #2a335c;
 	margin-top: 16px;
-	font-size: 25px;
+	font-size: 20px;
   }
   .education-content p {
 	margin: 16px;
@@ -252,11 +252,11 @@ CSS cho phần module và các phần còn lại
 }
 
 .Project__introduct .project_item h3{
-	font-size: 20px;
+	font-size: 18px;
 	color: #217dab;
 }
 .Project__introduct .project_item h4{
-	font-size: 18px;
+	font-size: 17px;
 	color: black;
 	margin-left: 5px;
 }
@@ -267,7 +267,7 @@ CSS cho phần module và các phần còn lại
 
 .Project__introduct .project_item img{
 	width: 100%;
-	max-height: 300px;
+	max-height: 280px;
 	object-fit: contain;
 }
 
