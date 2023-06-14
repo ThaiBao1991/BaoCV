@@ -198,10 +198,13 @@ CSS cho phần module và các phần còn lại
 	margin-bottom: 50px;
 }
 .section__title {
+	display: flex;
 	font-size: 28px;
 	text-transform: uppercase;
 	margin: 0 0 10px;
+	align-items: center;
 }
+
 .section__content {
 	padding-left: 90px;
 }
