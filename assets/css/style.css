@@ -265,6 +265,10 @@ CSS cho phần module và các phần còn lại
 	color: black;
 	margin-left: 5px;
 }
+
+.Project__introduct .project_item button{
+	margin-bottom: 5px;
+}
 .Project__introduct .project_item a{
 	color: #044350;
 	padding: 0 20px;
