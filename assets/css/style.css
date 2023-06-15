@@ -53,6 +53,7 @@ p {
 .fixed-content{
 	position: fixed;
 	max-width: 35%;
+	text-align: center;
 }
 
 .CV-download {
