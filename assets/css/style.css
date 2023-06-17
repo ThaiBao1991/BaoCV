@@ -282,7 +282,7 @@ CSS cho phần module và các phần còn lại
 
 .Project__introduct .project_item img{
 	width: 100%;
-	max-height: 280px;
+	max-height: 300px;
 	object-fit: contain;
 }
 
