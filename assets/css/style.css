@@ -257,15 +257,21 @@ CSS cho phần module và các phần còn lại
 }
 
 .Project__introduct .project_item h3{
+	font-weight: bold;
 	font-size: 18px;
 	color: #217dab;
 }
 .Project__introduct .project_item h4{
 	font-size: 17px;
-	color: black;
+	color: #b18383;
 	margin-left: 5px;
+	font-weight: 500;
 }
 
+.Project__introduct .project_item em{
+	font-size: 16px;
+	margin-left: 10px;
+}
 .Project__introduct .project_item button{
 	margin-bottom: 5px;
 }
@@ -283,7 +289,7 @@ CSS cho phần module và các phần còn lại
 .Project__introduct .project_item p{
 	font-size: 14px;
 	padding: 0px;
-	margin: 0px 10px;
+	margin: 10px;
 }
 
 .project_item button {
